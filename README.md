@@ -28,11 +28,11 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
-<img src='Kapture2023-09-22 at 17.05.03.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/89876fdf076545288f9ffd0036f87f19?sid=6ba43f30-3923-4dc0-ba18-1affe6d8fc42' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-[Kap](https://getkap.co/) for macOS
+[Loom](https://www.loom.com/looms/videos) for macOS
 
 ## Notes
 
