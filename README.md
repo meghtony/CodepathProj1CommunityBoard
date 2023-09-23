@@ -1,5 +1,5 @@
 # CodepathProj1CommunityBoard
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Community Board
 
 Submitted by: Meghana Ambalathingal
 
@@ -35,11 +35,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: For some reason, none of the images I was uploading to the different components were showing up. It only shows up as the weird image icon that is seen in the video.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Meghana Ambalathingal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
