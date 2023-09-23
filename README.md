@@ -1,5 +1,5 @@
 # CodepathProj1CommunityBoard
-# Web Development Project 1 - Community Board
+# Web Development Project 1 - **Community Board**
 
 Submitted by: Meghana Ambalathingal
 
